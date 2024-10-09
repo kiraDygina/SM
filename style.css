@@ -1,0 +1,75 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
+header{
+    background-color: #F1BAA1;
+    height: 80px;
+    padding: 10px;
+    font-weight:500;
+
+}
+a{
+  color:black;
+  text-decoration: none; 
+  font-size: 20px;
+}
+
+.catt{
+    border: 1px solid #6D8C00;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    color:#6D8C00;
+    padding: 3px;
+}
+
+.img2{
+    height: 30px;
+    width: 50px;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+div img{
+    width: 200px;
+    height: 190px;
+}
+
+div {
+    text-align: center;
+}
+
+footer{
+    background-color: #AA1803;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+footer p{
+    color: aliceblue;
+    padding-left: 650px;
+    font-size: 25px;
+}
+
+section{
+    display: flex;
+  
+    margin: 0 auto;
+    justify-content:space-around;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+
+p{
+    text-shadow: 10px -10px 10px greenyellow;
+}
